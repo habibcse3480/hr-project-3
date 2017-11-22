@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["GcqD+"]); }
+
+__d("MessengerGroupCreationEntryPoint",[],(function a(b,c,d,e,f,g){f.exports=Object.freeze({CHAT_TAB:"chat_tab_add_people",JEWEL:"jewel_new_message",CHAT_SIDEBAR:"chat_sidebar_new_message",GCF_JEWEL:"jewel_new_group",GCF_CHAT_SIDEBAR:"chat_sidebar_new_group",GCF_SHARE_FLOW:"chat_share_message_to_messenger"})}),null);
